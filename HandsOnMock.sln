@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnMock", "HandsOnMock\HandsOnMock.csproj", "{89A81584-C0A0-46FD-98C6-A1B2C01473D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnMock.Teste", "HandsOnMock.Teste\HandsOnMock.Teste.csproj", "{6C8E68A5-6CCF-4E16-9A1A-1BD762DAB560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A81584-C0A0-46FD-98C6-A1B2C01473D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A81584-C0A0-46FD-98C6-A1B2C01473D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A81584-C0A0-46FD-98C6-A1B2C01473D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A81584-C0A0-46FD-98C6-A1B2C01473D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8E68A5-6CCF-4E16-9A1A-1BD762DAB560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8E68A5-6CCF-4E16-9A1A-1BD762DAB560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8E68A5-6CCF-4E16-9A1A-1BD762DAB560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8E68A5-6CCF-4E16-9A1A-1BD762DAB560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74916F6B-A6CA-4207-A8F6-A8BAEAFDD83C}
+	EndGlobalSection
+EndGlobal
